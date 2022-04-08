@@ -1626,8 +1626,8 @@ input[type="radio"] .styled:checked+label::after {
      color: #000;
 }
 .img-box figure {
-     margin: 20% 0%;
-     margin-left: 13%;
+     margin:  0%;
+     margin-left:0%;
      width: 100%;
      height: 100%;
 }
