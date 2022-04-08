@@ -460,11 +460,12 @@ a.readmore_bt {
      float: left;
      position: relative;
      width: 60%;
+     padding-bottom: 12%;
 }
 
 nav.main-menu {
      float: right;
-     margin-left: 0;
+     margin-top: 3.5%;
 }
 
 ul.top_icon {
